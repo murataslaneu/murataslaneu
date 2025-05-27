@@ -1,5 +1,2 @@
-[![Summary](https://raw.githubusercontent.com/murataslaneu/murataslaneu/main/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Top Langs](https://raw.githubusercontent.com/murataslaneu/murataslaneu/main/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Top Langs By Commit](https://raw.githubusercontent.com/murataslaneu/murataslaneu/main/profile-summary-card-output/transparent/2-commits-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Stats](https://raw.githubusercontent.com/murataslaneu/murataslaneu/main/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Commits](https://raw.githubusercontent.com/murataslaneu/murataslaneu/main/profile-summary-card-output/transparent/4-commit-per-hour.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murataslaneu&layout=compact)
+
