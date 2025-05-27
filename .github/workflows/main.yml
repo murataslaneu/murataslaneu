@@ -1,0 +1,17 @@
+# .github/workflows/profile-summary-cards.yml
+
+name: Profile Summary Cards
+
+on:
+  schedule: # runs at every 12AM UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: ${{ github.repository_owner }}
